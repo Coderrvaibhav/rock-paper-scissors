@@ -9,7 +9,7 @@ This project implements a Rock, Paper, Scissors game where a player competes aga
 - `main.py`: A script to test the player against different bots and run unit tests.
 
 ## How to Run the Project
-1. **Clone the Repository**:
+1. **Clone the Repository**:  
    ```bash
    git clone <your-repo-url>
    cd <your-repo-directory>

@@ -33,4 +33,4 @@ def player(prev_play, opponent_history=[]):
     elif prev_play == "P":
         return "S"  # Scissors beats Paper
     else:
-        return "R"  # Rock beats Scissors
+        return "R"  
